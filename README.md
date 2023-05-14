@@ -9,3 +9,6 @@ Here are the Python projects I have completed so far:
 * next project coming
 
 I will add additional projects to this repo as I complete them.
+
+this shows _few_ **markdowns** of github
+![Markdowns](https://open-learning-exchange.github.io/pages/vi/images/vi-markdown-syntax.png)
