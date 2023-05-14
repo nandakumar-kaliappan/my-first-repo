@@ -10,5 +10,9 @@ Here are the Python projects I have completed so far:
 
 I will add additional projects to this repo as I complete them.
 
+Markdowns
+---
+Refer here for _**[official markdowns](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**_     
+
 this shows _few_ **markdowns** of github
 ![Markdowns](https://open-learning-exchange.github.io/pages/vi/images/vi-markdown-syntax.png)
